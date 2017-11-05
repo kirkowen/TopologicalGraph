@@ -57,6 +57,7 @@ freeline_project_description.json
 # AndroidStudio
 *.iml
 .gradle
+.idea
 /local.properties
 /.idea/workspace.xml
 /.idea/libraries
